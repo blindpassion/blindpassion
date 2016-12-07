@@ -172,7 +172,7 @@
           "title2": "Vertical Blinds",
           "subtitle2": "Made to co-ordinate with our Roller and Roman ranges.",
           "caption2": "Stunning Vertical Blinds delivered direct to your door. Simply fit them yourself in a few minutes.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"vertical-blinds.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wood-venetians-600x600-18.jpg",
@@ -188,7 +188,7 @@
           "title3": "Venetian Blinds",
           "subtitle3": "Super Selection of Aluminium &amp; Wood Venetians Available.",
           "caption3": "Order your new Venetian Blinds today for delivery within as little as 5 working days.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"venetian-blinds.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/roman-blinds-600x600-85.jpg",
@@ -204,7 +204,7 @@
           "title4": "Roman Blinds",
           "subtitle4": "Amazing fabrics, quality deluxe child friendly head-rails.",
           "caption4": "Beautiful Custom Made Roman Blinds with Fast Delivery to your Home or Office and so easy to fit.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"roman-blinds.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
